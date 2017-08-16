@@ -50,7 +50,7 @@ p {
 }
 .wrapper {
   background: #42A8C0;
-  max-width: 960px;
+  max-width: 1100px;
   margin: 0 auto;
   position: relative;
   -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
@@ -61,7 +61,7 @@ p {
   background: #42A8C0;
   position: absolute;
   right: 0;
-  width: 240px;
+  width: 380px;
   height: 100%;
   min-height: 800px;
   color: #fff;
@@ -161,7 +161,7 @@ p {
 .main-wrapper {
   background: #fff;
   padding: 60px;
-  padding-right: 300px;
+  padding-right: 440px;
 }
 .main-wrapper .section-title {
   text-transform: uppercase;
@@ -216,6 +216,15 @@ p {
   right: 0;
   top: 0;
   color: #97AAC3;
+}
+.main-wrapper .details {
+    padding-left: 20px;
+}
+.main-wrapper .details .detailitem {
+    font-size: 13px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-weight: 550;
 }
 .main-wrapper .company {
   margin-bottom: 10px;

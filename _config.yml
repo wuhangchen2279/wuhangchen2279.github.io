@@ -1,6 +1,6 @@
 
-title: My Resume
-url: 'http://webjeda.com'
+title: Daniel Wu's Resume
+url: 'wuhangchen2279.github.io'
 baseurl: '' #change it according to your repository name
 
 
@@ -13,17 +13,17 @@ baseurl: '' #change it according to your repository name
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+name: Daniel Wu
+tagline: Software Developer
+pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: wuhangchen2279@gmail.com
+phone: (+61) 451018880
+website: wuhangchen2279.github.io #do not add http://
+linkedin: hangchen-daniel-wu-37a3aa89
+github: wuhangchen2279
+twitter: '@wuhangchen2279'
 
 
 # Tracker
