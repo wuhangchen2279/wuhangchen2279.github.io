@@ -47,6 +47,12 @@
                      <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/@webjeda" target="_blank">@webjeda</a></li>
                     {% endif %}
                     
+                    {% if site.resume %}
+                    <li class="resume"><i class="fa fa-file-pdf-o"></i><a href="danielwu_resume.pdf" target="_blank">Download Here: {{site.resume}}</a></li>
+                    {% else %}
+                     <li class="resume"><i class="fa fa-file-pdf-o"></i><a href="danielwu_resume.pdf" target="_blank">default resume</a></li>
+                    {% endif %}
+                    
                 </ul>
             </div><!--//contact-container-->
            {% include education.html %}
